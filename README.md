@@ -1,5 +1,5 @@
 # Webcam Python
->An example of showing video from a webcam using python.
+>A demonstration of capturing images from a webcam in Python using the OpenCV library. 
 
 ## Requirements
 - The [opencv-python](https://pypi.org/project/opencv-python/) package. 
